@@ -39,7 +39,7 @@ libreoffice --version
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/convert-to-pdf.git
+git clone https://github.com/Ajay-Chaturvedi1/convert-to-pdf.git
 cd convert-to-pdf
 ```
 
@@ -151,7 +151,7 @@ sudo apt install -y libreoffice
 
 ##  License
 
-This project is open-source and free to use under the [MIT License](LICENSE).
+This project is open-source and free to use.
 
 ---
 
