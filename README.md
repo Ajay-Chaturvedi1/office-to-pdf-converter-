@@ -159,10 +159,7 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 
 Ajay Chaturvedi
 
-
-graph TD
-    A[your_folder] --> B[file-sample_100kB.doc]
-    A --> C[SamplePPTFile_500kb.ppt]
-    A --> D[file_example_XLS_10.xls]
-    A --> E[image.png]
+---
+## extra but important information
+For Windows UsersYou must use the Numeric Keypad (the block of numbers on the right side of your keyboard). Hold the Alt key and type the following numbers:To get │ (Vertical line): Hold Alt + type 179To get ├ (Branch): Hold Alt + type 195To get ─ (Horizontal line): Hold Alt + type 196To get └ (Corner): Hold Alt + type 192
 
