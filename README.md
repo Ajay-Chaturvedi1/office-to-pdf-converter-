@@ -1,10 +1,10 @@
-# 📄 Convert to PDF — Bash Script
+#  Convert to PDF — Bash Script
 
 A simple yet powerful bash script that **batch converts multiple file formats to PDF** using LibreOffice headless mode on Ubuntu.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Converts multiple file types to PDF in one command
 - Supports `.doc`, `.docx`, `.xls`, `.xlsx`, `.ppt`, `.pptx`, `.png`, `.jpg`, and more
@@ -14,7 +14,7 @@ A simple yet powerful bash script that **batch converts multiple file formats to
 
 ---
 
-## 🖥️ Requirements
+##  Requirements
 
 - **OS:** Ubuntu 24.04 LTS (or any Debian-based Linux)
 - **Tool:** LibreOffice (version 24.2+)
@@ -34,7 +34,7 @@ libreoffice --version
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 ### 1. Clone the repository
 
@@ -63,7 +63,7 @@ chmod +x convert_to_pdf.sh
 
 ---
 
-## 📂 Output
+##  Output
 
 All converted PDF files are automatically saved inside the `./OUTPUT/` directory.
 
@@ -83,7 +83,7 @@ OUTPUT/
 
 ---
 
-## 🧾 Script — `convert_to_pdf.sh`
+##  Script — `convert_to_pdf.sh`
 
 ```bash
 #!/bin/bash
@@ -121,7 +121,7 @@ echo "All convertions are completed successfully and stored in $OUTPUT_DIR"
 
 ---
 
-## ✅ Supported File Formats
+##  Supported File Formats
 
 | Format | Type |
 |--------|------|
@@ -135,7 +135,7 @@ echo "All convertions are completed successfully and stored in $OUTPUT_DIR"
 
 ---
 
-## ⚠️ Common Error & Fix
+##  Common Error & Fix
 
 **Error:**
 ```
@@ -149,12 +149,20 @@ sudo apt install -y libreoffice
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and free to use under the [MIT License](LICENSE).
 
 ---
 
-## 🙋‍♂️ Author
+##  Author
 
-Made with 💻 on Ubuntu 24.04 LTS (AWS EC2)
+Ajay Chaturvedi
+
+
+graph TD
+    A[your_folder] --> B[file-sample_100kB.doc]
+    A --> C[SamplePPTFile_500kb.ppt]
+    A --> D[file_example_XLS_10.xls]
+    A --> E[image.png]
+
