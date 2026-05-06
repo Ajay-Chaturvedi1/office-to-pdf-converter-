@@ -4,7 +4,7 @@
 if [ $# -eq 0 ]; then
         echo "Usage: $0 <file1> [file2...]"
         exit 1
-fi
+else
 
 # All converted files will be stored here
 OUTPUT_DIR="./OUTPUT"
@@ -29,3 +29,4 @@ for file in "$@"; do
 done
 
 echo "All convertions are completed successfully and stored in $OUTPUT_DIR"
+fi
