@@ -162,7 +162,8 @@ Ajay Chaturvedi
 ---
 ## extra but important information
 - For Windows UsersYou must use the Numeric Keypad (the block of numbers on the right side of your keyboard). 
-- Hold the Alt key and type the following numbers:To get │ (Vertical line): Hold Alt + type 179
+- Hold the Alt key and type the following numbers:
+- To get │ (Vertical line): Hold Alt + type 179
 - To get ├ (Branch): Hold Alt + type 195
 - To get ─ (Horizontal line): Hold Alt + type 196
 - To get └ (Corner): Hold Alt + type 192
