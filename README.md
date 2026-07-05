@@ -168,4 +168,22 @@ Ajay Chaturvedi
 - To get ├ (Branch): Hold Alt + type 195
 - To get ─ (Horizontal line): Hold Alt + type 196
 - To get └ (Corner): Hold Alt + type 192
+- Standard Line Characters
+  - Horizontal line (─): Alt + 196
+  - Vertical line (│): Alt + 179
+- Corner Characters
+  - Top-left corner (┌): Alt + 218
+  - Top-right corner (┐): Alt + 191
+  - Bottom-left corner (└): Alt + 192
+  - Bottom-right corner (┘): Alt + 217
+- Basic Directional Arrows
+  - Left arrow (←): Alt + 27
+  - Right arrow (→): Alt + 26
+  - Up arrow (↑): Alt + 24
+  - Down arrow (↓): Alt + 25
+- Double and Special Arrows
+  - Up and Down arrow (↕): Alt + 18
+  - Left and Right arrow (↔): Alt + 29
+  - Right double arrow (►): Alt + 16
+  - Left double arrow (◄): Alt + 17
 
